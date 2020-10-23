@@ -1,3 +1,3 @@
 # codewars
 
-Solution to katas from https://www.codewars.com
+Solutions to katas from https://www.codewars.com
